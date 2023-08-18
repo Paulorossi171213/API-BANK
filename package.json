@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "cubos-bank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
